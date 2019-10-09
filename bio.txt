@@ -13,3 +13,11 @@ Business card
 Instagram
 Introduction (podcast or presentation)
 Elevator pitch
+
+Bio draft
+
+My fascination with technology began as an end user managing information in various databases and realizing how much more depth and scope could be added to make information more accessible and helpful to these organizations.  This led to a career change away from non-profits to the start of my education in programming and software development, which is still in progress, but so far has afforded me the opportunity to learn the fundamentals and start web development in Python and JavaScript.
+
+Degree completion is just the beginning of my education in technology, and I want to be able to evolve and adapt professionally with continual innovation.  It is incredibly important to me to build a solid technological foundation, and I seek more training and development as an excellent transition from academic to practical application.
+
+I am determined to do everything I can to establish a successful career in software engineering.  I believe I am uniquely positioned to pivot my experience in non-profit organization, teamwork, leadership, and multi-tasking and use it to round out my programming skill set to be an ideal candidate for the Software Engineering Associate role.
